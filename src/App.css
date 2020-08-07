@@ -1,0 +1,38 @@
+.app {
+  background:palegoldenrod;
+  padding-left:420px;
+  padding-top: 90px;
+  height: 100vh;
+  margin-top: -25px;
+}
+
+.todo-list {
+  background:lightblue;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+  margin-top: -20px;
+}
+
+.todo {
+  background: #fff;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: black;
+  text-decoration-line: line-through red;
+}
+.b1{
+  background-color: green;
+  color: #fff;
+}
+
+.c{
+  background-color: red;
+  color: #fff;
+}

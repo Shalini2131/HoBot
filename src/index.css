@@ -1,0 +1,35 @@
+body {
+  /* margin: auto; */
+  margin-top: -20px;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -20px;
+  color:darkslateblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+  padding-left: 435px;
+  color:white;
+  text-shadow: 0 0 3px black, 0 0 5px palegoldenrod; 
+}
+
+h6{
+  color: tomato;
+  padding-left: 435px;
+}
+
+.Headings{
+  margin-top: -21px;
+  margin-left: -10px;
+  margin-right: -10px;
+  background-color: darkred;
+  width: auto;
+  height: auto;
+}
