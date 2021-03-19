@@ -1,4 +1,4 @@
-# Simple Hostel hostel repair checklist integrated with a chatbot i.e, HoBot using reactjs.
+# Simple Hostel repair checklist integrated with a chatbot i.e, HoBot using reactjs.
 ## This app helps in reporting any hostel room repairs to be done, by adding them into a checklist. After they are completed, you can click on completed button, it strikes off that item and you may even remove it from the checklist. Also, chatbot helps in knowing the food menu and any events that might happen in the college this week or the next.
 #### App link:https://shalini2131.github.io/HoBot/
 
